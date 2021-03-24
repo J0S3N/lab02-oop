@@ -13,7 +13,10 @@
  * Abstract Class of Person
  */
 class Person {
-
+    std::string firstName;
+    std::string lastName;
+    int id;
+public:
 };
 
 
